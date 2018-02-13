@@ -1,0 +1,43 @@
+body {
+  font-family: "Julius Sans One";
+  margin: 0;
+  background: #111;
+  padding: 0;
+  color: aliceblue;
+  text-align: center;
+}
+
+h1 {
+  font-size: 4rem;
+  color: #007DFF;
+}
+
+.container {
+  width: 60%;
+  margin: 0 auto;
+  transform: all 6s ease-in-out;
+  overflow: hidden;
+  border-bottom:1px solid #222;
+  margin-bottom: 120px;
+ 
+}
+
+.image-container {
+  width: 70%;
+  margin: 20px auto;
+
+}
+
+.image-container .message {
+  font-size: 2rem;
+  background: #007DFF;
+  color: #111;
+  font-weight: bold;
+}
+.image-container img {
+  width: 100%;
+}
+
+
+
+
